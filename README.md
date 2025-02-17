@@ -11,34 +11,34 @@ Welcome to the C++ Programming Repository, a collection of beginner to advanced 
 # Features & Topics Covered
 ## Beginner Programs
 
-✅ Basic Syntax (Variables, Functions, Scope)
-✅ Classes & Objects (Encapsulation, Constructors, Destructors)
-✅ Inheritance & Polymorphism (Overriding, Virtual Functions)
-✅ Operator Overloading & Friend Functions
+    + Basic Syntax (Variables, Functions, Scope)
+    + Classes & Objects (Encapsulation, Constructors, Destructors)
+    + Inheritance & Polymorphism (Overriding, Virtual Functions)
+    + Operator Overloading & Friend Functions
 
 ## Intermediate Programs
 
-✅ Templates & Function Templates
-✅ STL Containers & Iterators (Vector, List, Map, Stack, Queue)
-✅ File Handling (Binary & Text Files)
-✅ Multi-threading with std::thread
-✅ Memory Management & Smart Pointers
+    + Templates & Function Templates
+    + STL Containers & Iterators (Vector, List, Map, Stack, Queue)
+    + File Handling (Binary & Text Files)
+    + Multi-threading with std::thread
+    + Memory Management & Smart Pointers
 
 ## Advanced Programs
 
-✅ Metaprogramming & SFINAE (Substitution Failure Is Not An Error)
-✅ Move Semantics & Perfect Forwarding
-✅ RAII (Resource Acquisition Is Initialization)
-✅ Coroutines (C++20) for Asynchronous Programming
-✅ Encryption & Cryptography with OpenSSL (AES, RSA)
-✅ Hardware ID Extraction (CPU ID, BIOS ID)
+    + Metaprogramming & SFINAE (Substitution Failure Is Not An Error)
+    + Move Semantics & Perfect Forwarding
+    + RAII (Resource Acquisition Is Initialization)
+    + Coroutines (C++20) for Asynchronous Programming
+    + Encryption & Cryptography with OpenSSL (AES, RSA)
+    + Hardware ID Extraction (CPU ID, BIOS ID)
 
 ## Final Project: GUI-Based Serial Key Generator
 
-✅ Qt-Based GUI (Qt Widgets)
-✅ Serial Key Generation (User + Hardware ID)
-✅ AES-256 Encryption & RSA Signature
-✅ Serial Key Verification
+    + Qt-Based GUI (Qt Widgets)
+    + Serial Key Generation (User + Hardware ID)
+    + AES-256 Encryption & RSA Signature
+    + Serial Key Verification
 
 
 ## Installation & Compilation

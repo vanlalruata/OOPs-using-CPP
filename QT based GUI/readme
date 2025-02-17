@@ -1,11 +1,11 @@
-To create a complete GUI-based application, we will use Qt (for GUI), OpenSSL (for encryption), and C++17. 
+# To create a complete GUI-based application, we will use Qt (for GUI), OpenSSL (for encryption), and C++17. 
 
-This application will:
+## This application will:
 
-✅ Generate a serial key based on user input + hardware ID
-✅ Encrypt using AES-256 or RSA
-✅ Verify the serial key
-✅ Provide a Qt-based GUI
+    + Generate a serial key based on user input + hardware ID
+    + Encrypt using AES-256 or RSA
+    + Verify the serial key
+    + Provide a Qt-based GUI
 
 
 # Step 1: Install Dependencies
@@ -46,8 +46,8 @@ This application will:
 
 # Features Implemented
 
-✅ Qt GUI for User Input
-✅ Generates Serial Key from User & Hardware ID
-✅ Encrypts Key with AES
-✅ Verifies Serial Key
+    + Qt GUI for User Input
+    + Generates Serial Key from User & Hardware ID
+    + Encrypts Key with AES
+    + Verifies Serial Key
 
