@@ -1,0 +1,24 @@
+#include <iostream>
+#include <random>
+#include <sstream>
+#include <iomanip>
+
+using namespace std;
+
+string generateHexKey(int length = 16) {
+    random_device rd;
+    mt19937 gen(rd());
+    uniform_int_distribution<int> dist(0, 15);
+
+    stringstream ss;
+    for (int i = 0; i < length; ++i) {
+        ss << uppercase << hex << dist(gen);
+    }
+    return ss.str();
+}
+
+int main() {
+    string serial = generateHexKey();
+    cout << "Generated Serial Key: " << serial << endl;
+    return 0;
+}
