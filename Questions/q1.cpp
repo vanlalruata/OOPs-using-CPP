@@ -1,3 +1,4 @@
+// Q1: Create a class Student with data members (name, roll, marks) and display the details using objects.
 #include <iostream>
 #include <string>
 
